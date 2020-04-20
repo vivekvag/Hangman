@@ -1,6 +1,6 @@
 # Hangman
 
-  Hangman is a paper and pencil guessing game for two or more players. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters within a certain number of guesses. The word to guess is represented by a row of dashes, giving the number of letters. 
+  Hangman is a paper and pencil guessing game for two players. One player thinks of a word, phrase or sentence and the other tries to guess it by suggesting letters within a certain number of guesses. The word to guess is represented by a row of dashes, giving the number of letters. 
 
 
 ### HOW TO PLAY
