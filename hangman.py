@@ -50,7 +50,8 @@ def play(word):
             else:
                 guessed = True
                 word_completion = word
-        time.sleep(2.0)
+                #if you are facing an issue at else statement, so you can remove the time.sleep()
+                time.sleep(2.0)
         else:
             print("Not a valid guess.")
         print(display_hangman(tries))
