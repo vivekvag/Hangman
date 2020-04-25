@@ -9,7 +9,7 @@ def get_word():
 
 
 def play(word):
-    word_completion = "_  " * len(word)
+    word_completion = "_  " * len(word) # Double space after the "_" to know the actual length of the word by observing the DASHES
     guessed = False
     guessed_letters = []
     guessed_words = []
